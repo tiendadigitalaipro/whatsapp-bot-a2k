@@ -1,0 +1,17 @@
+node_modules/
+*.txt
+*.zip
+*.log
+.env
+deactivate
+node/
+files/
+50
+{
+conversaciones.txt
+clientes_electroai.txt
+clientes_whatsapp.txt
+ventas.txt
+ventas_telegram.txt
+ventas_zync.txt
+demos-bodega.txt

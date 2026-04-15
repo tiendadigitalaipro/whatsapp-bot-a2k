@@ -1,0 +1,22 @@
+{
+  "name": "zync-electronics-bot",
+  "version": "2.0.0",
+  "description": "Bot de WhatsApp para ZYNC Electronics con BODEGA PRO v2.0",
+  "main": "zync-bot-final.js",
+  "scripts": {
+    "start": "node zync-bot-final.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "zync",
+    "bodega-pro"
+  ],
+  "author": "ZYNC Electronics",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode": "^1.5.4",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.23.0"
+  }
+}
